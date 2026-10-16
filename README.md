@@ -1,7 +1,7 @@
 # Homework Assignment 5
 
 
-**Due: Before Lecture 21 (9:25 AM)**
+**Due: As listed on course schedule**
 
 *Note 1: Homework Assignment 5 must be completed individually*
 
@@ -290,4 +290,4 @@ The submission:
 
 ## Submitting
 
-Submit to your GitHub repositories before the due date/time.
+Submit to Gradescope before the due date/time.
